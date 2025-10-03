@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi , I'm Candida Noronha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hey, Soy Daniel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=2000&color=3DF7D0&background=7704FF00&center=true&width=435&lines=Estudiante+de+Inform%C3%A1tica;Javascript+%7C+iOS+" alt="Typing SVG" /></a>
 </p>
