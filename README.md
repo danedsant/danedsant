@@ -114,7 +114,7 @@
 
 <br/>
 
-## 🙋‍♀️ Conectemos!
+##                                                             🙋‍♀️ Conectemos!
 
 <p align="center">
   	<a href="mailto:daneduvsant.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
