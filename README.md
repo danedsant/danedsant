@@ -94,7 +94,7 @@
 <details> 
   <summary><b>💻 Estadisticas de Perfil de Github </b></summary>
   <br/>
-  <p align="center">
+  <p align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Estadisticas de Github" src="https://github-readme-stats.vercel.app/api?username=danedsant&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
