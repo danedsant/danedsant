@@ -97,6 +97,7 @@
   <p align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Estadisticas de Github" src="https://github-readme-stats.vercel.app/api?username=danedsant&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danedsant&show_icons=true&locale=en&layout=compact&theme=algolia" alt="danedsant height="192px"/>
+	<br/>
   <b>Nota:</b> Solo es una metrica de lo que consisten mis codigos y no reflejan experiencia o nivel de habilidad.
   </p>
 </details>
@@ -111,11 +112,10 @@
 </details>
 
 <br/>
-
-<p align="center">
 ## 🙋‍♀️ Conectemos!
 
-  <a href="mailto:daneduvsant.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+<p align="center">
+  	<a href="mailto:daneduvsant.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://linkedin.com/in/danedsant"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://instagram.com/danedsant"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://discordapp.com/users/danedsant"><img src="https://img.icons8.com/bubbles/50/000000/discord.png" alt="Discord"/></a>
