@@ -88,7 +88,7 @@
 
 <br/>
 
-## 📊 Github Stats (Expand to View) 
+## 📊 Estadisticas de Github (Expande para Ver) 
 
 
 <details> 
@@ -115,12 +115,12 @@
 
 <br/>
 
-## 🙋‍♀️ Let's Connect
+## 🙋‍♀️ Conectemos!
 <p align="center">
   <a href="mailto:daneduvsant.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://linkedin.com/in/danedsant"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://instagram.com/danedsant"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	
+	<a href="https://discordapp.com/users/danedsant"><img src="https://img.icons8.com/bubbles/50/000000/discord.png" alt="Discord"/></a>
 </p>
 
 <hr/>
