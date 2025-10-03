@@ -111,7 +111,9 @@
 
 </details>
 
+
 <br/>
+
 ## 🙋‍♀️ Conectemos!
 
 <p align="center">
@@ -122,10 +124,4 @@
 </p>
 
 <hr/>
-
-
-
-
-
-
 
