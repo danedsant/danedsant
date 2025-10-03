@@ -9,7 +9,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=danedsant&label=Profile%20views&color=0e75b6&style=plastic" alt="danedsant" /> </p>
 
 ## 🔥 Rachas
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=danedsant&theme=algolia" alt="danedsant"  /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=danedsant&theme=dracula&locale=es" alt="GitHub Streak" /></a>
 
 
 ## 🛠️ Habilidades
