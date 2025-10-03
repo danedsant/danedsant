@@ -9,8 +9,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=danedsant&label=Profile%20views&color=0e75b6&style=plastic" alt="danedsant" /> </p>
 
 ## 🔥 Rachas
+<p align="center"> 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=danedsant&theme=dracula&locale=es" alt="GitHub Streak" /></a>
-
+</p>
 
 ## 🛠️ Habilidades
 
@@ -53,7 +54,7 @@
   &emsp;
  </p>
   
-### 👉Diseño Grafico
+### 👉 Diseño Grafico
 <p align="left">
   &emsp;
   	
@@ -108,7 +109,7 @@
 <details>
   <summary><b>⚡ Actividad Reciente en Github </b></summary>
   <br/>
-   <a href="https://github.com/danedsant"><img alt="danedsant's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=danedsant&custom_title=Daniel%20Santamaria's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/danedsant"><img alt="Grafico de Actividad" src="https://activity-graph.herokuapp.com/graph?username=danedsant&custom_title=Daniel%20Santamaria's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
