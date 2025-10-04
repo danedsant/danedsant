@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=2000&color=3DF7D0&background=7704FF00&center=true&width=435&lines=Estudiante+de+Inform%C3%A1tica;Javascript+%7C+iOS+" alt="Typing SVG" /></a>
 </p>
 <hr/>
-<h2 align="center">Soy fanático del mundo tech, cooperador, creativo y con ganas de adentrarme mas y aprender del mundo Frontend y Backend, interesado en el aprendizaje y desarrollo en iOS, React, JS, Node.Js, React Native </h4>
+<h2 align="center">Soy fanático del mundo tech, cooperador, creativo y con ganas de adentrarme mas y aprender del mundo Frontend y Backend, interesado en el aprendizaje y desarrollo en iOS, React, JS, Node.Js, React Native </h2>
 
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=danedsant&label=Profile%20views&color=0e75b6&style=plastic" alt="danedsant" /> </p>
@@ -13,7 +13,7 @@
 
 ## 🛠️ Habilidades
 
-### 👉 Lenguajes de Programacion
+### ✔️ Lenguajes de Programacion
 
 <p align="left"> 
 
@@ -31,7 +31,7 @@
 
 </p>
 
-### 👉 Desarrollo Frontend
+### ✔️ Desarrollo Frontend
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -43,7 +43,7 @@
   </a> 
 </p>
 
-### 👉 Bases de Datos
+### ✔️ Bases de Datos
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
@@ -52,7 +52,7 @@
   &emsp;
  </p>
   
-### 👉 Diseño Grafico
+### ✔️ Diseño Grafico
 <p align="left">
   &emsp;
   	
@@ -72,7 +72,7 @@
   </a>
  </p>
 
- ### 👉 Software & Herramientas
+ ### ✔️ Software & Herramientas
  
 <p>
   &emsp;
@@ -87,28 +87,16 @@
 
 <br/>
 
-## 📊 Estadisticas de Github (Expande para Ver) 
 
 
-<details> 
-  <summary><b>💻 Estadisticas de Perfil de Github </b></summary>
+
+  ## 💻 Estadisticas de Perfil de Github
   <br/>
   <p align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Estadisticas de Github" src="https://github-readme-stats.vercel.app/api?username=danedsant&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danedsant&show_icons=true&locale=en&layout=compact&theme=algolia" alt="danedsant height="192px"/>
 	<br/>
   <b>Nota:</b> Solo es una metrica de lo que consisten mis codigos y no reflejan experiencia o nivel de habilidad.
   </p>
-</details>
-
-
-<details>
-  <summary><b>⚡ Actividad Reciente en Github </b></summary>
-  <br/>
-   <a href="https://github.com/danedsant"><img alt="Grafico de Actividad" src="https://activity-graph.herokuapp.com/graph?username=danedsant&custom_title=Daniel%20Santamaria's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
 
 
 <br/>
