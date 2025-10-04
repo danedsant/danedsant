@@ -4,9 +4,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=2000&color=3DF7D0&background=7704FF00&center=true&width=435&lines=Estudiante+de+Inform%C3%A1tica;Javascript+%7C+iOS+" alt="Typing SVG" /></a>
 </p>
 
-<p align="center"> 
+
 <h2 align="center">Soy fanático del mundo tech, cooperador, creativo y con ganas de adentrarme mas y aprender del mundo Frontend y Backend, interesado en el aprendizaje y desarrollo en iOS, React, JS, Node.Js, React Native </h2>
-<img src="https://komarev.com/ghpvc/?username=danedsant&label=Profile%20views&color=0e75b6&style=plastic" alt="danedsant" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=danedsant&label=Profile%20views&color=0e75b6&style=plastic" alt="danedsant" /> </p>
 <hr/>
 <br>
 
