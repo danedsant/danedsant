@@ -86,23 +86,8 @@
 	<a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"></a>
 </p>
 
-<br/>
 
-
-
-
-  ## 💻 Estadisticas de Perfil de Github
-  <br/>
-  <p align="left">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danedsant&show_icons=true&locale=en&layout=compact&theme=algolia" alt="danedsant height="192px"/>
-	<br/>
-  <b>Nota:</b> Solo es una metrica de lo que consisten mis codigos y no reflejan experiencia o nivel de habilidad.
-  </p>
-
-
-<br/>
-
-##                                                             🙋‍♀️ Conectemos!
+## 🙋‍♀️ Conectemos!
 
 <p align="center">
   	<a href="mailto:daneduvsant.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
