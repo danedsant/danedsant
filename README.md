@@ -5,7 +5,7 @@
 </p>
 
 
-<h2 align="center">Soy fanático del mundo tech, cooperador, creativo y con ganas de adentrarme mas y aprender del mundo Frontend y Backend, interesado en el aprendizaje y desarrollo en  Javascript, Node.js, Java</h2>
+<h2 align="justify">Soy fanático del mundo tech, cooperador, creativo y con ganas de adentrarme mas y aprender del mundo Frontend y Backend, interesado en el aprendizaje y desarrollo en  Javascript, Node.js, Java</h2>
 <p align="justify"> <img src="https://komarev.com/ghpvc/?username=danedsant&label=Profile%20views&color=0e75b6&style=plastic" alt="danedsant" /> </p>
 <hr/>
 <br>
