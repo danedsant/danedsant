@@ -5,7 +5,7 @@
 </p>
 
 
-<h2 align="center">Soy fanático del mundo tech, cooperador, creativo y con ganas de adentrarme mas y aprender del mundo Frontend y Backend, interesado en el aprendizaje y desarrollo en iOS, React, JS, Node.Js, React Native </h2>
+<h2 align="center">Soy fanático del mundo tech, cooperador, creativo y con ganas de adentrarme mas y aprender del mundo Frontend y Backend, interesado en el aprendizaje y desarrollo en  Javascript, Node.js, Java</h2>
 <p align="justify"> <img src="https://komarev.com/ghpvc/?username=danedsant&label=Profile%20views&color=0e75b6&style=plastic" alt="danedsant" /> </p>
 <hr/>
 <br>
@@ -89,7 +89,7 @@
 
 ## 🙋‍♀️ Conectemos!
 
-<p align="center">
+<p align="left">
   	<a href="mailto:daneduvsant.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://linkedin.com/in/danedsant"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://instagram.com/danedsant"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
